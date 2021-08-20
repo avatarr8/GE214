@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## GE 214 : Digital Cartography
+This is the syllabus, front-page and course specific information for Worcester State University's GE 214: Digital Cartography.
+_last updated August 2021_
 
-You can use the [editor on GitHub](https://github.com/doctarr/GE214/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Software
+We will be using a variety of software packages and platforms for this course. The majority are free, opensource and platform independent. Students are expected to install and/or have access to the following on their personal computers or machines provided in ST 323.
+- ATOM [download](https://atom.io/)
+-- ATOM is an industry standard "text editor," but it does a whole lot more. We will use it to do some basic coding and editing of files throughout the semester.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/doctarr/GE214/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Assignments 
+## 1 Software Set-Up
+## More Coming Soon!
