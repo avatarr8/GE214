@@ -40,7 +40,9 @@ If you have not yet setup a zoom account via WSU yet, please do so now.
 
 - Slack [sign up / download](https://slack.com/)  
 Slack is increasingly the standard for communication in digital-work, so we will be using it for this class for most of our communication and assignments (see below). Even if you only learn how to navigate slack this semester, this class will be worth it for professional development -- though I would prefer you also learn how to make engaging maps.  
-I encourage you to install the desktop client on your own computer / mobile device if you wish. The web interface works fine, but is a slight hassle.
+I encourage you to install the desktop client on your own computer / mobile device if you wish. The web interface works fine, but is a slight hassle.  
+ - Use this [link](https://join.slack.com/t/slack-z4l4788/shared_invite/zt-vngeiuip-d3EJtVAcIWFN9EZ25LObWg) to join our Slack Workspace
+
 
 - Storymaps / ArcGIS online (account created via WSU)
 ArcGIS online and Storymaps will be the one non-free software we use all semester -- though it is free to you now as a WSU student. There is nothing to install.
@@ -56,6 +58,9 @@ Again, this is a studio style class where most of what we will do is develop, de
 ## Reading
 Most weeks there will be a short reading from one of several online sources (i.e. you don’t need to buy any books unless you want to). You will be expected to have done the reading by the class for which it is assigned and be prepared to discuss it in class on Monday. We will read a mixture of technical, instructional and conceptual pieces for the class. As you will see below, I will also encourage you to bring the reading discussions onto our slack channel.
 
+- Week 2: Please read Chapters 1 and 2 from the open-source textbook [Mapping, Society and Technology](https://open.lib.umn.edu/mapping/)
+ - if you do not have a background in geography / don't remember everything from GE 102 or GS 165, you may want to look over chapter 3 as well. It is not 100% necessary to understand map projections for this course, but will help you understand some map data better later in the class.
+
 ## Community Contributions [25 pts]
 Because this class is a ‘studio,’ it will be very community focused, and I expect students to contribute by sharing ideas, information and helping each other solve problems -- I will of course do the same. We will primarily use slack to keep our community connected, asynchronous, and searchable.
 By the end of the class period on Wednesday, I expect you to have posted a minimum of two of the following:
@@ -69,7 +74,7 @@ There will be four projects across the semester:
 
 ### Project 1: A Migration Story (10 pts)  
 **Due 9/20**  
-We will use StoryMaps to explore how interactive maps, combined with text, can create a compelling narrative about people and places (otherwise known as geography). This project will help you get your feet wet with working with online spatial data as well as thinking about multiple scales, layers and interactivity.
+We will use [StoryMaps](https://storymaps.arcgis.com/) to explore how interactive maps, combined with text, can create a compelling narrative about people and places (otherwise known as geography). This project will help you get your feet wet with working with online spatial data as well as thinking about multiple scales, layers and interactivity.
 
 ### Project 2: A Greener Worcester (20 pts)  
 **Due 10/04**  
@@ -79,6 +84,7 @@ We will use [MapBox](mapbox.com) to create our own base-maps. The focus of the p
 **Due 11/1**  (though you may want to finish and share early!)  
 We will use [Leafleft.js](https://leafletjs.com/) and GitHub to create custom visualizations of donor data and voter turnout in Massachusetts. This will give you an opportunity to “get under the hood” of web-mapping and see/think about how code both limits and enables different types of cartographic expression. It will also be an opportunity to think carefully about what kind of data is available, how it gets represented and ethical choices when mapping.
 
-### Project 4: Final Project TBA (25 pts) Due 12/13
+### Project 4: Final Project TBA (25 pts)  
+**Due 12/13**  
 Students will develop their own mapping projects using a combination of the above softwares and concepts. You will be responsible for creating a design document and plan, as well as acquiring any data or materials necessary for your project, and executing the final map by the end of the semester.
 _NOTE: if there is student consensus, I will design a final project around an already existing dataset._
