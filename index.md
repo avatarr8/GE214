@@ -83,6 +83,7 @@ We will use [MapBox](mapbox.com) to create our own base-maps. The focus of the p
 ### Project 3: Money, Power and Politics in Voting (20 pts)
 **Due 11/1**  (though you may want to finish and share early!)  
 We will use [Leafleft.js](https://leafletjs.com/) and GitHub to create custom visualizations of donor data and voter turnout in Massachusetts. This will give you an opportunity to “get under the hood” of web-mapping and see/think about how code both limits and enables different types of cartographic expression. It will also be an opportunity to think carefully about what kind of data is available, how it gets represented and ethical choices when mapping.
+[You can find the GitHub repo for this project here](https://github.com/doctarr/GE214_Proj3)
 
 ### Project 4: Final Project TBA (25 pts)  
 **Due 12/13**  
