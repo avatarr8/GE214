@@ -1,6 +1,6 @@
 # GE 214 : Digital Cartography
 This is the syllabus, front-page and course specific information for Worcester State University's GE 214: Digital Cartography.
-_last updated August 2021_
+_last updated August 2023_
 
 ## Contact Information
 Instructor: Alexander Tarr  
@@ -23,25 +23,23 @@ No experience with GIS, coding or design is expected for the course, though you 
 ## Course Structure
 This is primarily a project based course, where you will learn-by-doing. As with many design+software courses, I cannot possibly teach you everything you need to know -- the platforms themselves change every few months it seems--so the goal of this course is very much to teach you what is possible and to learn how to learn to do the things you want. In short, I want you to come out of the class being able to ask “I want a map that does _______, how do I make that happen?” and be able to answer that question. To that end:  
 
-**Mondays:** We will have synchronous lectures, discussion and tutorials in class. I expect you to be present the whole time, having done any readings, and be prepared to ask questions and discuss ideas. Any content I share during class will be shared after class in our slack channel.
+**Tuesdays:** We will have a mixture of lectures, discussion and tutorials in class. I expect you to be present the whole time, having done any readings, and be prepared to ask questions and discuss ideas. Any content I share during class will be shared after class in our Google Space and/or via our GitHub repo.
 
-**Wednesdays:** We will have asynchronous project development time via SLACK. In short: by the end of the class period, you will need to show progress on your project via updates on our slack channel, but you are welcome to do that anytime before Wednesday morning. There will not be synchronous class at this time, but I will be available to help troubleshoot problems and discuss ideas.
+**Thursdays:** We will have in person project development in the lab. If you need to work remotely on these days, you may be able to do, but you will have less access for support and will need to show progress on your project via the Google Space.
 
 ## Software:
-The main software you need for this class is a modern web browser. I will use Chrome for teaching, but Safari or Firefox should work just as well. We will, however, be using many different platforms throughout the semester, so you’ll need to be organized about usernames & passwords. I recommend setting up a password manager sooner rather than later, or at least maring a place in a notebook to keep track.
+The main software you need for this class is a modern web browser. I will use Chrome for teaching, but Safari or Firefox should work just as well. We will, however, be using many different platforms throughout the semester, so you’ll need to be organized about usernames & passwords. I recommend setting up a password manager sooner rather than later, or at least making a place in a notebook to keep track.
 
 
 We will be using a variety of software packages for this course. The majority are free, opensource and platform independent. Students are expected to install and/or have access to the following on their personal computers or machines provided in ST 323.
-- ATOM [download](https://atom.io/)  
-ATOM is an industry standard "text editor," but it does a whole lot more. We will use it to do some basic coding and editing of files throughout the semester. You can use any text editor, if you have something you are already familiar and comfortable with, but getting used to ATOM is a good idea if you're starting from scratch.
+- Visual Studio Code [download](https://code.visualstudio.com/download)  
+Visual Studio Code is an industry standard "text editor," but it does a whole lot more. We will use it to do some basic coding and editing of files throughout the semester. You can use any text editor, if you have something you are already familiar and comfortable with, but getting used to VS Code is a good idea if you're starting from scratch.
 
 - Zoom [sign up / download](https://zoom.us/)  
-If you have not yet setup a zoom account via WSU yet, please do so now.
+If you have not yet setup a zoom account via WSU yet, please do so.
 
-- Slack [sign up / download](https://slack.com/)  
-Slack is increasingly the standard for communication in digital-work, so we will be using it for this class for most of our communication and assignments (see below). Even if you only learn how to navigate slack this semester, this class will be worth it for professional development -- though I would prefer you also learn how to make engaging maps.  
-I encourage you to install the desktop client on your own computer / mobile device if you wish. The web interface works fine, but is a slight hassle.  
- - Use this [link](https://join.slack.com/t/slack-z4l4788/shared_invite/zt-vngeiuip-d3EJtVAcIWFN9EZ25LObWg) to join our Slack Workspace
+- Google Space [access from your WSU gmail/google suite](https://gmail.com)
+Google Spaces is the Google Suite answer to Slack -- an asynchronous system for having conversations, sharing files/data, assinging tasks, and generally collaborating on projects together. Because most of the things we use on campus for communicaiton are via the Google Suite at this point, we will use Spaces this semester.
 
 
 - Storymaps / ArcGIS online (account created via WSU)
@@ -63,7 +61,7 @@ Most weeks there will be a short reading from one of several online sources (i.e
 
 ## Community Contributions [25 pts]
 Because this class is a ‘studio,’ it will be very community focused, and I expect students to contribute by sharing ideas, information and helping each other solve problems -- I will of course do the same. We will primarily use slack to keep our community connected, asynchronous, and searchable.
-By the end of the class period on Wednesday, I expect you to have posted a minimum of two of the following:
+By the end of the class period on Thursday, I expect you to have posted a minimum of two of the following:
 - A reflection on reading or lecture (at least 100 words, complete sentences)
 - A description of a problem or issue you are having with your project development
 - A response to a classmate’s question with a solution or suggestion
@@ -73,17 +71,16 @@ By the end of the class period on Wednesday, I expect you to have posted a minim
 There will be four projects across the semester:
 
 ### Project 1: A Migration Story (10 pts)  
-**Due 9/20**  
+**Due 9/21**  
 We will use [StoryMaps](https://storymaps.arcgis.com/) to explore how interactive maps, combined with text, can create a compelling narrative about people and places (otherwise known as geography). This project will help you get your feet wet with working with online spatial data as well as thinking about multiple scales, layers and interactivity.
 
 ### Project 2: A Greener Worcester (20 pts)  
-**Due 10/04**  
+**Due 10/05**  
 We will use [MapBox](mapbox.com) to create our own base-maps. The focus of the project will be creating a design that evokes a “greener worcester,” by bringing forth elements that will highlight potential sustainability efforts in the city. It will give you a grounding in basic cartographic principles as well as planning design choices in advance of completing a project.
 
-### Project 3: Money, Power and Politics in Voting (20 pts)
-**Due 11/1**  (though you may want to finish and share early!)  
-We will use [Leafleft.js](https://leafletjs.com/) and GitHub to create custom visualizations of donor data and voter turnout in Massachusetts. This will give you an opportunity to “get under the hood” of web-mapping and see/think about how code both limits and enables different types of cartographic expression. It will also be an opportunity to think carefully about what kind of data is available, how it gets represented and ethical choices when mapping.
-[You can find the GitHub repo for this project here](https://github.com/doctarr/GE214_Proj3)
+### Project 3: ReViewing Redlines (20 pts)
+**Due 11/2**  (though you may want to finish and share early!)  
+We will use R, Shiny and GitHub to create custom visualizations of historic and contemporary data on housing in Worcester. This will give you an opportunity to “get under the hood” of web-mapping and see/think about how code both limits and enables different types of cartographic expression. It will also be an opportunity to think carefully about what kind of data is available, how it gets represented and ethical choices when mapping.
 
 ### Project 4: Final Project TBA (25 pts)  
 **Due 12/13**  
