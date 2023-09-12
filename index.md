@@ -7,6 +7,8 @@ Instructor: Alexander Tarr
 Email: atarr@worcester.edu  
 “Office” Hours: [M/W 10:00-11:30 ](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUl1Q3FiaDNnQWZxfGRlZmF1bHR8YmY4YWJhNjM5ZTBjMmYwZmM5ZDcyMTQ5NTNmYmE2ZGM) on ZOOM or in ST 310P
 
+[Goolge Chat Space for the course](https://mail.google.com/chat/u/0/#chat/space/AAAAmKZNrIY)
+
 ## Objectives
 On completion, students should be able to:
 * Create intentionally designed maps and other data visualizations using web-based platforms
